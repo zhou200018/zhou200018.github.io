@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>github官方初始化指令</title>
+      <link href="/archives/fb9ff7d3.html"/>
+      <url>/archives/fb9ff7d3.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="在命令行上创建新的存储库"><a href="#在命令行上创建新的存储库" class="headerlink" title="在命令行上创建新的存储库"></a>在命令行上创建新的存储库</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">echo &quot;# blog&quot; &gt;&gt; README.md</span><br><span class="line">git init</span><br><span class="line">git add README.md</span><br><span class="line">git commit -m &quot;first commit&quot;</span><br><span class="line">git branch -M main</span><br><span class="line">git remote add origin https://github.com/zhou200018/blog.git</span><br><span class="line">git push -u origin main</span><br></pre></td></tr></table></figure><h3 id="从命令行推送现有存储库"><a href="#从命令行推送现有存储库" class="headerlink" title=".从命令行推送现有存储库"></a>.从命令行推送现有存储库</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git remote add origin https://github.com/zhou200018/blog.git</span><br><span class="line">git branch -M main</span><br><span class="line">git push -u origin main</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 指令 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> QuickStart </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>git团队基本操作流程</title>
       <link href="/archives/a4469409.html"/>
       <url>/archives/a4469409.html</url>
