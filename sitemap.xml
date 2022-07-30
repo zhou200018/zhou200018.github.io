@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhou200018.github.io/archives/af6b4628.html</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhou200018.github.io/archives/ded3615c.html</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhou200018.github.io/archives/e0700ddd.html</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhou200018.github.io/archives/385c30d.html</loc>
     
     <lastmod>2022-07-30</lastmod>
@@ -128,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/live2d-widget-master/demo/login.html</loc>
+    <loc>https://zhou200018.github.io/live2d-widget-master/demo/demo.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -137,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/live2d-widget-master/demo/demo.html</loc>
+    <loc>https://zhou200018.github.io/live2d-widget-master/demo/login.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -198,6 +225,20 @@
   </url>
   
   <url>
+    <loc>https://zhou200018.github.io/tags/java/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhou200018.github.io/tags/idea/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zhou200018.github.io/tags/hello/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,14 +253,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/tags/java/</loc>
-    <lastmod>2022-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhou200018.github.io/tags/idea/</loc>
+    <loc>https://zhou200018.github.io/tags/python/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -249,14 +283,14 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/categories/%E6%8C%87%E4%BB%A4/yaml/</loc>
+    <loc>https://zhou200018.github.io/categories/%E8%B5%84%E6%96%99/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/categories/%E8%B5%84%E6%96%99/</loc>
+    <loc>https://zhou200018.github.io/categories/%E6%8C%87%E4%BB%A4/yaml/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
