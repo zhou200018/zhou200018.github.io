@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>idea操作</title>
+      <link href="/archives/358cc2b5.html"/>
+      <url>/archives/358cc2b5.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="提高效率的常用配置"><a href="#提高效率的常用配置" class="headerlink" title="提高效率的常用配置"></a><strong>提高效率的常用配置</strong></h3><ol><li>自动导包和优化多余的包</li></ol><p><img src="https://cdn.jsdelivr.net/gh/zhou200018/picdemo/img/Snipaste_2022-07-30_15-53-00.png"></p><p>在开发的时候，我们发现有些包一直存在我们的项目中，但就是使用不了，而你的同事却用的很好，这时候你就会怀疑你的编译器是不是出问题了，就会出现清除缓存，重启ide等一系列骚操作。其实没有必要只需按上图配置Auto Import，你会发现很多问题都好了。</p><ol start="2"><li>忽略大小写，进行提示</li></ol><p><img src="https://cdn.jsdelivr.net/gh/zhou200018/picdemo/img/Snipaste_2022-07-30_15-54-15.png"></p><ol start="3"><li>CTRL + 滑动滚轮 调整窗口显示大小</li></ol><p><img src="https://cdn.jsdelivr.net/gh/zhou200018/picdemo/img/Snipaste_2022-07-30_15-56-08.png"></p><h3 id="提高效率的常用插件-Plugins"><a href="#提高效率的常用插件-Plugins" class="headerlink" title="提高效率的常用插件(Plugins)"></a><strong>提高效率的常用插件(Plugins)</strong></h3><ol><li><p>Alibaba Java Coding Guidelines</p><p><img src="https://cdn.jsdelivr.net/gh/zhou200018/picdemo/img/Snipaste_2022-07-30_15-57-24.png"></p></li></ol><p>alibaba java coding guidelines这个插件是阿里巴巴规约的工具。通过鼠标悬浮代码或右键后选择“编码规约扫描”，可以看不符合规约的代码，并提出建设性意见，让我们的代码更加安全，简洁，美观。</p><ol start="2"><li><p>MybatisX（MybatisX 是一款基于 IDEA 的快速开发插件，为效率而生）</p><p><img src="https://cdn.jsdelivr.net/gh/zhou200018/picdemo/img/Snipaste_2022-07-30_16-00-01.png"></p></li></ol><p>可以快速定位分析sql,它的作用并不仅仅是定位，自动生成</p><ol start="3"><li>Lombok</li></ol><p>  lombok是java自动生成代码的插件。它能提高开发效率，减少自己编写繁琐的代码，让代码看起来更整洁简略，比如getter、setter、equals以及construct等方法。</p><p><img src="https://cdn.jsdelivr.net/gh/zhou200018/picdemo/img/Snipaste_2022-07-30_16-00-56.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 优化 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> idea配置 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>考研安排</title>
       <link href="/archives/afa3d4ad.html"/>
       <url>/archives/afa3d4ad.html</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> 资料考研安排 </category>
+          <category> 资料 </category>
           
       </categories>
       
