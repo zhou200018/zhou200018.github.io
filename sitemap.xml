@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhou200018.github.io/archives/693208d8.html</loc>
+    
+    <lastmod>2022-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhou200018.github.io/archives/b0b755d5.html</loc>
     
     <lastmod>2022-08-04</lastmod>
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/live2d-widget-master/live2d-widget-master/README.html</loc>
+    <loc>https://zhou200018.github.io/live2d-widget-master/demo/login.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -200,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/live2d-widget-master/demo/login.html</loc>
+    <loc>https://zhou200018.github.io/live2d-widget-master/live2d-widget-master/README.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -218,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html</loc>
+    <loc>https://zhou200018.github.io/live2d-widget-master/live2d-widget-master/demo/login.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -227,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/live2d-widget-master/live2d-widget-master/demo/login.html</loc>
+    <loc>https://zhou200018.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -259,6 +268,13 @@
   </url>
   
   <url>
+    <loc>https://zhou200018.github.io/tags/idea/</loc>
+    <lastmod>2022-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zhou200018.github.io/tags/hello/</loc>
     <lastmod>2022-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -267,13 +283,6 @@
   
   <url>
     <loc>https://zhou200018.github.io/tags/world/</loc>
-    <lastmod>2022-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhou200018.github.io/tags/idea/</loc>
     <lastmod>2022-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -317,14 +326,14 @@
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/categories/%E6%8C%87%E4%BB%A4/yaml/</loc>
+    <loc>https://zhou200018.github.io/categories/%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2022-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhou200018.github.io/categories/%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://zhou200018.github.io/categories/%E6%8C%87%E4%BB%A4/yaml/</loc>
     <lastmod>2022-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
